@@ -1,6 +1,7 @@
 # V2V Communication via Cloud for Passenger Safety
 
 Welcome to our project, focused on enhancing passenger safety through Vehicle-to-Vehicle (V2V) communication via the cloud. In today's dynamic world of transportation, safety and security remain paramount concerns. To address these challenges, we've developed a comprehensive solution leveraging V2V communication and cloud technology to create a safer and more secure environment for passengers and road users.
+Note: This prototypes's git repository consist of 3 branches, App for users, dashboard and a glimpse of centralized cloud
 
 ## Key Use Cases
 ### 1. Real-time Weather Alerts
